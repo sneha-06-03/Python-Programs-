@@ -10,5 +10,15 @@ a. print whether the character is a letter or numeric digit or a special charact
 
 b. if the character is a letter, print whether the letter is uppercase or lowercase<br/>
 
-c. if the character is a numeric digit, prints its name in text (e.g., if input is 9, output is NINE)
+c. if the character is a numeric digit, prints its name in text (e.g., if input is 9, output is NINE)<br/>
 ![IMG-20241106-WA0019.jpg](https://github.com/user-attachments/assets/0703f78a-8858-4f19-a54e-3e66c0487ed6)
+# WAP to perform the following operations on a string<br/>
+
+a. Find the frequency of a character in a string.<br/>
+
+b. Replace a character by another character in a string.<br/>
+
+c. Remove the first occurrence of a character from a string.<br/>
+
+d. Remove all occurrences of a character from a string.<br/>
+![IMG-20241106-WA0021.jpg](https://github.com/user-attachments/assets/238e62e9-ba5c-48c5-8a6f-c40a1a24f9fb)
