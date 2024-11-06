@@ -22,3 +22,5 @@ c. Remove the first occurrence of a character from a string.<br/>
 
 d. Remove all occurrences of a character from a string.<br/>
 ![IMG-20241106-WA0021.jpg](https://github.com/user-attachments/assets/238e62e9-ba5c-48c5-8a6f-c40a1a24f9fb)
+# WAP to swap the first n characters of two strings:
+![IMG-20241106-WA0022.jpg](https://github.com/user-attachments/assets/853761fb-aa8f-45fb-a2b5-4a3aaa2baf5a)
