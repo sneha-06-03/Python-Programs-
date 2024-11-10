@@ -28,4 +28,4 @@ d. Remove all occurrences of a character from a string.<br/>
 <br/>
 # 7.Write a function that accepts two strings and returns the indices of all the occurrences of the second string in the first string as a list. If the second string is not present in the first string then it should return -1.
 <br/>
-![IMG-20241106-WA0023.jpg](https://github.com/user-attachments/assets/c3bd6ec3-f3d1-4eb3-b326-2c0373da54f8)
+![Screenshot 2024-11-10 223626](https://github.com/user-attachments/assets/8acbf514-f2cb-482f-b586-20c6255abd7b)
