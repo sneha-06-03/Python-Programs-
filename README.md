@@ -34,4 +34,5 @@ d. Remove all occurrences of a character from a string.<br/>
 # 8.WAP to create a list of the cubes of only the even integers appearing in the input list (may have elements of other types also) using the following:<br/>
 a. 'for' loop<br/>
 b. list comprehension<br/>
+<br/>
 
