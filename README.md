@@ -31,7 +31,7 @@ d. Remove all occurrences of a character from a string.<br/>
 ![Screenshot 2024-11-10 223626](https://github.com/user-attachments/assets/8acbf514-f2cb-482f-b586-20c6255abd7b)
 <br/>
 <br/>
-# 8.8. WAP to create a list of the cubes of only the even integers appearing in the input list (may have elements of other types also) using the following:<br/>
+#  WAP to create a list of the cubes of only the even integers appearing in the input list (may have elements of other types also) using the following:<br/>
 a. 'for' loop<br/>
 b. list comprehension<br/>
 ![Screenshot 2024-11-10 224921](https://github.com/user-attachments/assets/b6e5fbd9-7af1-48b7-966b-b0f8d5411246)
