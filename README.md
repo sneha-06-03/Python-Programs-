@@ -24,3 +24,6 @@ d. Remove all occurrences of a character from a string.<br/>
 ![IMG-20241106-WA0021.jpg](https://github.com/user-attachments/assets/238e62e9-ba5c-48c5-8a6f-c40a1a24f9fb)
 # 6.WAP to swap the first n characters of two strings:
 ![IMG-20241106-WA0022.jpg](https://github.com/user-attachments/assets/853761fb-aa8f-45fb-a2b5-4a3aaa2baf5a)
+<br/>
+<br/>
+# 7.Write a function that accepts two strings and returns the indices of all the occurrences of the second string in the first string as a list. If the second string is not present in the first string then it should return -1.
